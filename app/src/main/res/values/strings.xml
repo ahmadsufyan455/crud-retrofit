@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD Retrofit</string>
+    <string name="title">Title</string>
+    <string name="desc">This is description here</string>
+    <string name="submit">Submit Article</string>
+    <string name="success_submit">You have successfully submitted article</string>
+    <string name="return_to_home">Return to Home</string>
+    <string name="update">Update Article</string>
+    <string name="delete_article">Delete Article</string>
+    <string name="success">Success Submit</string>
+</resources>
